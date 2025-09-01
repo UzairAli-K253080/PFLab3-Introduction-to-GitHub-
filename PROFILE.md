@@ -1,3 +1,3 @@
-14 - George Washington
-15 * John Adams
-16 + Thomas Jefferson
+- George Washington
+* John Adams
++ Thomas Jefferson
